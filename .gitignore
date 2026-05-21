@@ -1,0 +1,21 @@
+# Virtual environment
+venv/
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+
+# Django
+*.log
+local_settings.py
+media/
+
+# Environment variables
+.env
+
+# IDE
+.vscode/
+.idea/
